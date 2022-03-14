@@ -11,4 +11,6 @@ Then the app will display the converted value below space.
 
 # Screenshots of User Interfaces :
 Application Icon 
-
+![App Logo](https://github.com/AkashWarkhad/Convertexapp/blob/master/ScreenShots/img1.jpg)
+![App Home Page](https://github.com/AkashWarkhad/Convertexapp/blob/master/ScreenShots/img2.jpg)
+![Real Time Curruncy Convert](https://github.com/AkashWarkhad/Convertexapp/blob/master/ScreenShots/img3.jpg)
