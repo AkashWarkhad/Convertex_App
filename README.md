@@ -9,8 +9,9 @@ It's a real time Currency Converter Application using API in Java by using Andro
 4. Click “Convert” Button.
 5. Then the app will display the converted value below space.
 6. 
-# APK File to install app on Android Phone :
+# Download APK File to install app on Android Phone :
 
+https://github.com/AkashWarkhad/Convertex_App/blob/master/app-debug.apk
 
 # Screenshots of User Interfaces :
  
