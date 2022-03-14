@@ -8,6 +8,9 @@ It's a real time Currency Converter Application using API in Java by using Andro
 3. Choose any of currency type (US dollar, IND rupees, Euro, NZD Curruncy)that you want to convert, enterd value using the drop-down list.
 4. Click “Convert” Button.
 5. Then the app will display the converted value below space.
+6. 
+# APK File to install app on Android Phone :
+
 
 # Screenshots of User Interfaces :
  
